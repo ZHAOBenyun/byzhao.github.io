@@ -64,59 +64,59 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   
-  - area: M.S. in Mechanical and Automation Engineering
-    institution: Massachusetts Institute of Technology
-    date_start: 2020-09-01
-    date_end: 2021-06-31
-    summary: |
-      GPA: 3.7/4.0
+#   - area: M.S. in Mechanical and Automation Engineering
+#     institution: Massachusetts Institute of Technology
+#     date_start: 2020-09-01
+#     date_end: 2021-06-31
+#     summary: |
+#       GPA: 3.7/4.0
 
-      Courses included:
-      - MAEG 5725: Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) (A/A)
-      - ELEG 5760: Machine Learning for Singal Processing by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) (A/A)
-      - MAEG 5755: Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/) (A-/A)
-      - MAEG 5750: MEMS Technology & Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) (A-/A)
+#       Courses included:
+#       - MAEG 5725: Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) (A/A)
+#       - ELEG 5760: Machine Learning for Singal Processing by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) (A/A)
+#       - MAEG 5755: Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/) (A-/A)
+#       - MAEG 5750: MEMS Technology & Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) (A-/A)
 
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-09-01
-    date_end: 2020-07-31
-    summary: |
-      GPA: 4.5/5.0
+#   - area: BSc Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     date_start: 2016-09-01
+#     date_end: 2020-07-31
+#     summary: |
+#       GPA: 4.5/5.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       Courses included:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
-work:
-  - position: Visiting Student
-    company_name: Nanjing University of Science and Technology
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-04-01
-    date_end: 2024-05-01
-    summary: |
-      Supervisor: [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
+# work:
+#   - position: Visiting Student
+#     company_name: Nanjing University of Science and Technology
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2024-04-01
+#     date_end: 2024-05-01
+#     summary: |
+#       Supervisor: [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 
-  - position: Visiting Student 
-    company_name:  University of California, Berkeley
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-09-01
-    date_end: 
-    summary: |
-      Supervisor: [Prof. Mark Mueller](https://me.berkeley.edu/people/mark-w-mueller/)
+#   - position: Visiting Student 
+#     company_name:  University of California, Berkeley
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2023-09-01
+#     date_end: 
+#     summary: |
+#       Supervisor: [Prof. Mark Mueller](https://me.berkeley.edu/people/mark-w-mueller/)
   
-  - position: Visiting Student 
-    company_name: Pengcheng Lab
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-07-01
-    date_end: 2023-07-01
-    summary: |
-      International Symposium on Cooperative Autonomous Systems, chaired by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) and [Prof. Hugh Liu](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
+#   - position: Visiting Student 
+#     company_name: Pengcheng Lab
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2023-07-01
+#     date_end: 2023-07-01
+#     summary: |
+#       International Symposium on Cooperative Autonomous Systems, chaired by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) and [Prof. Hugh Liu](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
