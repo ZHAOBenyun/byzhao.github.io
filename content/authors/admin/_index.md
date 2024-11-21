@@ -24,10 +24,10 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Hong Kong Centre for Logistics Robotics
-    url: https://www.hkclr.hk/
   - name: The Chinese University of Hong Kong
     url: https://www.cuhk.edu.hk/english/index.html
+  - name: Hong Kong Centre for Logistics Robotics
+    url: https://www.hkclr.hk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
