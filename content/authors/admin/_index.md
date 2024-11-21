@@ -71,9 +71,10 @@ education:
       GPA: 3.5/4.0
       
       Courses included:
-      - MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) *(A/A)*
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - (*A/A*) MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
+      - (*A/A*) ELEG 5760 Machine Learning for Singal Processing by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) 
+      - (*A-/A*) MAEG 5755 Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/)
+      - (*A-/A*) MAEG 5750 MEMS Technology and Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
