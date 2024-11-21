@@ -66,7 +66,7 @@ education:
   - area: M.S. in Mechanical Design Manufacturing and Automation
     institution: Jiangsu Ocean University
     date_start: 2020-09-01
-    date_end: 2021-06-31
+    date_end: 2022-07-31
     summary: |
       GPA: 3.7/4.0
       
@@ -83,7 +83,10 @@ education:
       GPA: 4.5/5.0
       
       Courses included:
-      - MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
+      - (*A/A*) MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
+      - (*A/A*) ELEG 5760 Machine Learning for Singal Processing by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) 
+      - (*A-/A*) MAEG 5755 Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/)
+      - (*A-/A*) MAEG 5750 MEMS Technology and Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
