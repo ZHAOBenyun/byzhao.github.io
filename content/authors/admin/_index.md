@@ -11,7 +11,7 @@ last_name: Zhao
 
 # Status emoji
 status:
-  icon: 🀅
+  icon: 👨🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -217,4 +217,4 @@ Before I delved fully into research, I worked as a research assistant in [Hong K
 
 Outside of work, you will find me photographing.
 
-
+Click here for my full [resume](static/uploads/BenyunZHAO_cv.pdf).
