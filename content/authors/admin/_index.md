@@ -63,7 +63,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.S. in Mechanical Design Manufacturing and Automation
+  - area: M.S. in Mechanical and Automation Engineering
     institution: The Chinese University of Hong Kong
     date_start: 2020-09-01
     date_end: 2021-06-01
@@ -199,4 +199,16 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! This is Benyun Zhao (赵犇赟). I am a Ph.D. student in Mechanical and Automation Engineering at the Chinese University of Hong Kong. I am a member of [USR](http://www.mae.cuhk.edu.hk/~usr/) group, supervised by Prof. Ben M. Chen and frequently collaborating with Prof Mark Mueller in UCB. 
+
+My work focuses on understanding the 3D physical world through vision and language, enabling robots to act in such environments in a generalizable and controllable manner, and using natural language as feedback to teach and improve embodied agents. My dream is to build and deploy household robots to homes around the world to help humans with daily tasks and needs.
+
+Before joining UMich, I obtained my Master’s in Machine Learning from Carnegie Mellon University where I worked with Prof. Louis-Philippe Morency and Prof. Matt Gormley on Multimodal Natural Language Understanding, Dataset Bias Analysis, and Machine Learning. I got my Bachelor’s in Computer Science from Georgia Tech.
+
+Before I delved fully into research, I worked as a Software Development Engineer at  Amazon Web Services, intern and full-time.
+
+Outside of work, you will find me skiing/cooking/baking/photographing.
+
+Click here for my full bio and here for my CV.
+
+
