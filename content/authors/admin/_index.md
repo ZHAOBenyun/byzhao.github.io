@@ -69,11 +69,9 @@ education:
     date_end: 2021-06-31
     summary: |
       GPA: 3.7/4.0
+
       Courses included:
-      MAEG 5725: Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) (A/A)
-      ELEG 5760: Machine Learning for Singal Processing by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) (A/A)
-      MAEG 5755: Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/) (A-/A)
-      MAEG 5750: MEMS Technology & Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) (A-/A)
+      MAEG 5725: Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
