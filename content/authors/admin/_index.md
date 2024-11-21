@@ -45,8 +45,8 @@ profiles:
     url: https://www.linkedin.com/in/benyun-zhao-96b09b255/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=XQuAI8UAAAAJ&hl=en&authuser=1
-  - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0008-7298-2927
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/my-orcid?orcid=0009-0008-7298-2927
 
 interests:
   - Unmanned Systems
