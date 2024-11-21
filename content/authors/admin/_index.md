@@ -59,7 +59,7 @@ education:
     date_start: 2022-09-01
     date_end: 2026-08-01
     summary: |
-      Supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/). 
+      Supervised by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -70,7 +70,7 @@ education:
     summary: |
       GPA: 3.7/4.0
       
-      Courses included:
+      Courseswork:
       - (*A/A*) MAEG 5725 Control & Industrial Automation by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
       - (*A/A*) ELEG 5760 Machine Learning for Singal Processing Applications by [*Prof. Hongsheng Li*](https://www.ee.cuhk.edu.hk/~hsli/) 
       - (*A-/A*) MAEG 5755 Robotics by [*Prof. Juan Rojas*](http://www.juanrojas.net/)
@@ -82,8 +82,8 @@ education:
     summary: |
       GPA: 4.5/5.0
       
-      Courses included:
-      - (*A/A*) MAEG 5725 Control & Industrial Automation by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
+      Courseswork:
+      Advanced Mathematics (*94/100*), Geometric Drawing and Engineering Graphics (*85/100*), Linear Algebra (*94/100*), Probability and Statistics (*91/100*), Principles of Mechanics (*88/100*), Electrotechnics and Electronics (*86/100*), Solidworks 3D Model Design (*95/100*), Engineer Training (*95/100*), Electrical Control of Machinery Tools and PLC (*85/100*), CAD and CAM (*95/100*), Insturial Robot (*88/100*), Professional English for Mechanical Engineering (*96/100*)
 work:
   - position: Visiting Student
     company_name: Nanjing University of Science and Technology
@@ -94,8 +94,8 @@ work:
     summary: |
       Supervisor: [*Prof. Zhenbo Song*](https://www.researchgate.net/profile/Song-Zhenbo) and [*Prof. Jianfeng Lu*](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 
-  - position: Visiting Student in HiPeR Lab
-    company_name:  [HiPeR Lab](https://hiperlab.berkeley.edu/) in University of California, Berkeley
+  - position: Visiting Student
+    company_name:  University of California, Berkeley
     company_url: 'https://hiperlab.berkeley.edu/'
     company_logo: 'assets/media/icons/ucb.svg'
     date_start: 2023-09-01
@@ -111,6 +111,16 @@ work:
     date_end: 2023-07-01
     summary: |
       International Symposium on Cooperative Autonomous Systems, chaired by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [*Prof. Jie Chen*](https://www.tongji.edu.cn/info/1136/21221.htm) and [*Prof. Hugh Liu*](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
+
+    - position: Exchange Student
+    company_name: Nanjing Tech University
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-08-01
+    date_end: 2019-07-01
+    summary: |
+      Coursework: 
+      Thermodynamics and Heat Transfer (*85/100*), Design of Mechanics (*86/100*), Numerical Computation (*92/100*), Principles of Microcontrollers (*91/100*), Fundamentals of Control Eningeering (*85/100*), Hydraulic and Pneumatic Transmission (*89/100*), Numerical Control Technology (*88/100*), Finite Element Analysis (*94/100*), Design and Manufacture of Pressing Model (*95/100*)
 
 
 # Skills
