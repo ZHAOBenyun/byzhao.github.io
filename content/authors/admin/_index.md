@@ -200,7 +200,7 @@ awards:
 
 ## About Me
 
-Hello! This is Benyun Zhao (赵犇赟). I am a Ph.D. student in Mechanical and Automation Engineering at the Chinese University of Hong Kong (CUHK), where I obtained my Master's degree. I am now a member of [*USR*](http://www.mae.cuhk.edu.hk/~usr/) group, supervised by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and frequently collaborating with Prof. Yunhui Liu in CUHK and [*Prof. Mark Mueller*](https://me.berkeley.edu/people/mark-w-mueller/) in UC, Berkeley. My work focuses on computer vision engineering application based on unmanned systems, such as 2D object detection, instance segmentation, 3D scene reconstruction and understanding.
+Hello! This is Benyun Zhao (赵犇赟). I am a Ph.D. student in Mechanical and Automation Engineering at the Chinese University of Hong Kong (CUHK), where I obtained my Master's degree. I am now a member of [*USR*](http://www.mae.cuhk.edu.hk/~usr/) group, supervised by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and frequently collaborating with Prof. Yunhui Liu in CUHK and [*Prof. Mark Mueller*](https://me.berkeley.edu/people/mark-w-mueller/) in UC, Berkeley. My work focuses on computer vision engineering application based on unmanned systems, such as object detection, instance segmentation, image enhancement, 3D scene reconstruction and understanding.
 
 Before I delved fully into research, I worked as a research assistant on robotics in [*Hong Kong Centre for Logistics Robotics*](https://www.hkclr.hk/) from 2021-2022 and had several internships in Sinopec and YTO Group Corporation as Mechanical Engineer during undergraduate.
 
