@@ -57,16 +57,16 @@ education:
   - area: Ph.D. in Mechanical and Automation Engineering
     institution: The Chinese University of Hong Kong
     date_start: 2022-09-01
-    date_end: 2026-08-31
+    date_end: 2026-08-01
     summary: |
       Supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: M.S. in Mechanical Design Manufacturing and Automation
-    institution: Jiangsu Ocean University
+    institution: The Chinese University of Hong Kong
     date_start: 2020-09-01
-    date_end: 2022-07-31
+    date_end: 2021-06-01
     summary: |
       GPA: 3.7/4.0
       
@@ -78,15 +78,12 @@ education:
   - area: B.Eng. in Mechanical Design Manufacturing and Automation
     institution: Jiangsu Ocean University
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2020-07-01
     summary: |
       GPA: 4.5/5.0
       
       Courses included:
       - (*A/A*) MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
-      - (*A/A*) ELEG 5760 Machine Learning for Singal Processing by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) 
-      - (*A-/A*) MAEG 5755 Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/)
-      - (*A-/A*) MAEG 5750 MEMS Technology and Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
