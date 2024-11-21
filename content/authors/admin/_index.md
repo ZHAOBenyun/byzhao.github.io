@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 趙犇贇
+title: Benyun Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: Benyun Zhao
+name_pronunciation: 赵犇赟
 
 # Full name (for SEO)
 first_name: Benyun
