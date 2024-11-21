@@ -63,15 +63,6 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.S. in Mechanical and Automation Engineering
-    institution: The Chinese University of Hong Kong
-    date_start: 2020-09-01
-    date_end: 2021-06-31
-    summary: |
-      GPA: 3.7/4.0
-
-      Courses included:
-      MAEG 5725: Control & Industrial Automation by 
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
