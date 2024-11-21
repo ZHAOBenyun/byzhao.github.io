@@ -171,13 +171,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Chun Wo Innovation Student Awards 2022 
+    url: https://www.cwisa.com/en/past-award-winners.html
+    date: '2023-11'
+    awarder: Chun Wo Development Holdings Limited, 
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Gold Award & Best Bussiness Potential Award
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -200,9 +200,9 @@ awards:
 
 ## About Me
 
-Hello! This is Benyun Zhao (赵犇赟). I am a 3rd year Ph.D. student in [Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/) at [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), where I obtained my Master's degree in 2021. I am now a member of [Unmanned System Research group](http://www.mae.cuhk.edu.hk/~usr/), supervised by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and frequently collaborating with Prof. Yunhui Liu in CUHK and [*Prof. Mark Mueller*](https://me.berkeley.edu/people/mark-w-mueller/) in UC, Berkeley. My work focuses on computer vision engineering application based on unmanned systems, such as object detection, instance segmentation, image enhancement, 3D scene reconstruction and understanding.
+Hello! This is Benyun Zhao (赵犇赟). I am a 3rd year Ph.D. student in [Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/) at [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), where I obtained my Master's degree in 2021. I am now a member of [Unmanned System Research group](http://www.mae.cuhk.edu.hk/~usr/), supervised by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and frequently collaborating with [*Prof. Yunhui Liu*](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) in CUHK and [*Prof. Mark Mueller*](https://me.berkeley.edu/people/mark-w-mueller/) in UC, Berkeley. My work focuses on computer vision engineering application based on unmanned systems, such as object detection, instance segmentation, image enhancement, 3D scene reconstruction and understanding.
 
-Before I delved fully into research, I worked as a research assistant in [Hong Kong Centre for Logistics Robotics](https://www.hkclr.hk/) from 2021-2022 and had several internships in Sinopec and YTO Group Corporation as Mechanical Engineer during undergraduate.
+Before I delved fully into research, I worked as a research assistant in [Hong Kong Centre for Logistics Robotics](https://www.hkclr.hk/) from 2021-2022 and had internships in [Sinopec Jinling Company](http://jlpec.sinopec.com/jlpec/) and [YTO Group Corporation](http://en.first-tractor.com.cn/#) as Mechanical Engineer during undergraduate.
 
 Outside of work, you will find me photographing/concert.
 
