@@ -63,7 +63,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.Eng. in Mechanical Design, Manufacturing and Automation
+  - area: B.Eng. in Mechanical Design Manufacturing and Automation
     institution: Jiangsu Ocean University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -71,7 +71,7 @@ education:
       GPA: 3.5/4.0
       
       Courses included:
-      - MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) (A/A)
+      - MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) *(A/A)*
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
