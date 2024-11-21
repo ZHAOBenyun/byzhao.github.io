@@ -63,17 +63,31 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Artificial Intelligence
+- area: M.S. in Mechanical and Automation Engineering
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-09-01
+    date_end: 2021-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.7/4.0
+
+      Courses included:
+      - (*A/A*) MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
+      - ELEG 5760 Machine Learning for Singal Processing by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) *(A/A)*
+      - MAEG 5755 Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/) (A-/A)
+      - MAEG 5750 MEMS Technology & Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) (A-/A)
+
+  - area: B.Meng in Mechanical Design, Manufacturing and Automation
+    institution: Jiangsu Ocean University
+    date_start: 2016-09-01
+    date_end: 2020-07-31
+    summary: |
+      GPA: 4.5/5.0
       
       Courses included:
-      - MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) (A/A)
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
