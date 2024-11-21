@@ -70,7 +70,7 @@ education:
     summary: |
       GPA: 3.7/4.0
       
-      Courseswork:
+      Coursework:
       - (*A/A*) MAEG 5725 Control & Industrial Automation by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
       - (*A/A*) ELEG 5760 Machine Learning for Singal Processing Applications by [*Prof. Hongsheng Li*](https://www.ee.cuhk.edu.hk/~hsli/) 
       - (*A-/A*) MAEG 5755 Robotics by [*Prof. Juan Rojas*](http://www.juanrojas.net/)
@@ -82,7 +82,7 @@ education:
     summary: |
       GPA: 4.5/5.0
       
-      Courseswork:
+      Coursework:
       Advanced Mathematics (*94/100*), Geometric Drawing and Engineering Graphics (*85/100*), Linear Algebra (*94/100*), Probability and Statistics (*91/100*), Principles of Mechanics (*88/100*), Electrotechnics and Electronics (*86/100*), Solidworks 3D Model Design (*95/100*), Engineer Training (*95/100*), Electrical Control of Machinery Tools and PLC (*85/100*), CAD and CAM (*95/100*), Insturial Robot (*88/100*), Professional English for Mechanical Engineering (*96/100*)
 work:
   - position: Visiting Student
@@ -112,11 +112,11 @@ work:
     summary: |
       International Symposium on Cooperative Autonomous Systems, chaired by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [*Prof. Jie Chen*](https://www.tongji.edu.cn/info/1136/21221.htm) and [*Prof. Hugh Liu*](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
 
-    - position: Exchange Student
+  - position: Exchange Student
     company_name: Nanjing Tech University
     company_url: ''
     company_logo: ''
-    date_start: 2018-08-01
+    date_start: 2018-09-01
     date_end: 2019-07-01
     summary: |
       Coursework: 
