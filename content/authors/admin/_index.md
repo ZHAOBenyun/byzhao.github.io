@@ -63,16 +63,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-- area: M.S. in Mechanical and Automation Engineering
-    institution: The Chinese University of Hong Kong
-    date_start: 2020-09-01
-    date_end: 2021-06-31
+  - area: B.Eng. in Mechanical Design, Manufacturing and Automation
+    institution: Jiangsu Ocean University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.7/4.0
-
+      GPA: 3.5/4.0
+      
       Courses included:
-      - (A/A) MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
-
+      - MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) (A/A)
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
