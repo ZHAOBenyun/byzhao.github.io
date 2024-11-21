@@ -24,8 +24,8 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Unmanned Systems Research Group
-    url: http://www.mae.cuhk.edu.hk/~usr/
+  - name: Hong Kong Centre for Logistics Robotics
+    url: https://www.hkclr.hk/
   - name: The Chinese University of Hong Kong
     url: https://www.cuhk.edu.hk/english/index.html
 
@@ -98,9 +98,9 @@ work:
     summary: |
       Supervisor: [*Prof. Zhenbo Song*](https://www.researchgate.net/profile/Song-Zhenbo) and [*Prof. Jianfeng Lu*](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 
-  - position: Visiting Student in [HiPeR Lab](https://hiperlab.berkeley.edu/), Mechanical Engineering
+  - position: Visiting Student in HiPeR Lab, Mechanical Engineering
     company_name:  University of California, Berkeley
-    company_url: 
+    company_url: https://hiperlab.berkeley.edu/
     company_logo: 'assets/media/icons/ucb.svg'
     date_start: 2023-09-01
     date_end: 2023-09-01
@@ -211,9 +211,9 @@ awards:
 
 ## About Me
 
-Hello! This is Benyun Zhao (赵犇赟). I am a 3rd year Ph.D. student in [Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/) at [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), where I obtained my Master's degree in 2021. I am now a member of [Unmanned System Research group](http://www.mae.cuhk.edu.hk/~usr/), supervised by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and frequently collaborating with [*Prof. Yunhui Liu*](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) in CUHK and [*Prof. Mark Mueller*](https://me.berkeley.edu/people/mark-w-mueller/) in UC, Berkeley. My work focuses on computer vision engineering application based on unmanned systems, such as object detection, instance segmentation, image enhancement, 3D scene reconstruction and understanding.
+Hello! This is Benyun Zhao (赵犇赟). I am a 3rd year Ph.D. student in [Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/) at [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), where I obtained my Master's degree in 2021. I am now a member of [Unmanned System Research (USR) group](http://www.mae.cuhk.edu.hk/~usr/) and [Hong Kong Centre for Logistics Robotics (HKCLR)](https://www.hkclr.hk/), supervised by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and frequently collaborating with [*Prof. Yunhui Liu*](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) in CUHK and [*Prof. Mark Mueller*](https://me.berkeley.edu/people/mark-w-mueller/) in UC, Berkeley. My work focuses on computer vision engineering application based on unmanned systems, such as object detection, instance segmentation, image enhancement, 3D scene reconstruction and understanding.
 
-Before I delved fully into research, I worked as a research assistant in [Hong Kong Centre for Logistics Robotics](https://www.hkclr.hk/) from 2021-2022 and had internships in [Sinopec Jinling Company](http://jlpec.sinopec.com/jlpec/) and [YTO Group Corporation](http://en.first-tractor.com.cn/#) as Mechanical Engineer during undergraduate.
+Before I delved fully into research, I worked as a joint research assistant in CUHK and HKCLR from 2021-2022 and had internships in [Sinopec Jinling Company](http://jlpec.sinopec.com/jlpec/) and [YTO Group Corporation](http://en.first-tractor.com.cn/#) as Mechanical Engineer during undergraduate.
 
 Outside of work, you will find me photographing.
 
