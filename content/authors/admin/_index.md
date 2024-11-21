@@ -193,12 +193,12 @@ awards:
       - Best Business Idea Award (HKD 15,000)
   - title: Professor Charles K. Ko Student Creativity Award 
     url: https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3735-event-highlight-professor-charles-k-kao-student-creativity-awards-pckksca-prize-presentation-ceremony-1-june-2023
-    certificate_url: https://drive.google.com/file/d/19n1P-9FpUefOkNXZ0ksbrhB-FZIMtWGX/view?usp=drive_link
+    certificate_url: https://drive.google.com/file/d/1oXJRMmwQ0JW0GVwd5Gdb2-vpBGcsLBBM/view?usp=sharing
     date: '2023-06-01'
     awarder: The Chinese University of Hong Kong
     icon: 
     summary: |
-      - Champion, Postgraduate Group (HKD 18,000)
+      - Champion (HKD 18,000)
   - title: 48th Geneva International Exhibition of Inventions 
     url: https://ifia.com/the-48th-international-exhibition-of-inventions-in-geneva-was-held-with-success/
     certificate_url: https://drive.google.com/file/d/1KcbXp0Zm0-V9rT-3qytHy38phAUzHvuy/view?usp=sharing
