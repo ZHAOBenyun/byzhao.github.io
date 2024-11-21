@@ -97,7 +97,7 @@ work:
   - position: Visiting Student 
     company_name:  University of California, Berkeley
     company_url: 'https://hiperlab.berkeley.edu/'
-    company_logo: 'assets/media/icons/UCB.png'
+    company_logo: 'assets/media/icons/ucb.svg'
     date_start: 2023-09-01
     date_end: 2023-09-01
     summary: |
