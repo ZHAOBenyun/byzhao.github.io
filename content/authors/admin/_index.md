@@ -63,6 +63,18 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+  - area: M.S. in Mechanical Design Manufacturing and Automation
+    institution: Jiangsu Ocean University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.7/4.0
+      
+      Courses included:
+      - (*A/A*) MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
+      - (*A/A*) ELEG 5760 Machine Learning for Singal Processing Applications by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) 
+      - (*A-/A*) MAEG 5755 Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/)
+      - (*A-/A*) MAEG 5750 MEMS Technology and Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) 
   - area: B.Eng. in Mechanical Design Manufacturing and Automation
     institution: Jiangsu Ocean University
     date_start: 2016-01-01
