@@ -98,9 +98,9 @@ work:
     summary: |
       Supervisor: [*Prof. Zhenbo Song*](https://www.researchgate.net/profile/Song-Zhenbo) and [*Prof. Jianfeng Lu*](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 
-  - position: Visiting Student in HiPeR Lab, Mechanical Engineering
+  - position: Visiting Student in [HiPeR Lab](https://hiperlab.berkeley.edu/), Mechanical Engineering
     company_name:  University of California, Berkeley
-    company_url: https://hiperlab.berkeley.edu/
+    company_url: 
     company_logo: 'assets/media/icons/ucb.svg'
     date_start: 2023-09-01
     date_end: 2023-09-01
