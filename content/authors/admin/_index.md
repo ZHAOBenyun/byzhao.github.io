@@ -48,60 +48,67 @@ profiles:
 
 interests:
   - Unmanned Systems
-  - Artificial Intelligence
   - Computation Vision
+  - Robotics
   - 3D Scene Understanding
 
+
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Mechanical and Automation Engineering
+    institution: The Chinese University of Hong Kong
+    date_start: 2022-09-01
+    date_end: 2026-08-31 (expected)
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  
+  - area: M.S. in Mechanical and Automation Engineering
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-09-01
+    date_end: 2021-06-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.7/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - MAEG 5725: Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) (A/A)
+      - ELEG 5760: Machine Learning for Singal Processing by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) (A/A)
+      - MAEG 5755: Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/) (A-/A)
+      - MAEG 5750: MEMS Technology & Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) (A-/A)
+
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-09-01
+    date_end: 2020-07-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.5/5.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Visiting Student
+    company_name: Nanjing University of Science and Technology
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
+    date_start: 2024-04-01
+    date_end: 2024-5-01
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  
+  - position: Visiting Student
+    company_name: University of California, Berkeley
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-09-01
+    date_end: 2023-10-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
