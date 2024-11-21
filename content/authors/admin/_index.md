@@ -173,7 +173,7 @@ languages:
 awards:
   - title: Chun Wo Innovation Student Awards 2022 
     url: https://www.cwisa.com/en/past-award-winners.html
-    date: '2023-11'
+    date: '2023-11-01'
     awarder: Chun Wo Development Holdings Limited, 
     icon: 
     summary: |
