@@ -101,7 +101,7 @@ work:
       Supervisor: [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 
   - position: Visiting Student 
-    company_name: [HiPeR Lab](https://hiperlab.berkeley.edu/) in University of California, Berkeley
+    company_name:  University of California, Berkeley
     company_url: ''
     company_logo: ''
     date_start: 2023-09-01
