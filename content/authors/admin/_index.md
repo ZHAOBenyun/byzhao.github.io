@@ -85,6 +85,7 @@ education:
       
       Coursework:
       Advanced Mathematics (*94/100*), Geometric Drawing and Engineering Graphics (*85/100*), Linear Algebra (*94/100*), Probability and Statistics (*91/100*), Principles of Mechanics (*88/100*), Electrotechnics and Electronics (*86/100*), Solidworks 3D Model Design (*95/100*), Engineer Training (*95/100*), Electrical Control of Machinery Tools and PLC (*85/100*), CAD and CAM (*95/100*), Insturial Robot (*88/100*), Professional English for Mechanical Engineering (*96/100*)
+
 work:
   - position: Visiting Student
     company_name: Nanjing University of Science and Technology
@@ -200,7 +201,7 @@ awards:
     url: https://ifia.com/the-48th-international-exhibition-of-inventions-in-geneva-was-held-with-success/
     certificate_url: https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3724-event-highlight-48th-international-exhibition-of-invention-geneva-26-30-april-2023
     date: '2023-04-01'
-    awarder: World Intellectual Property Organizatio, International Federation of Inventor’s Association
+    awarder: Federal government of Switzerland, State, Geneva; World Intellectual Property Organization; International Federation of Inventor’s Association
     icon: 
     summary: |
       - Bronze Medal
