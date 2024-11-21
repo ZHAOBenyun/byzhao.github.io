@@ -176,7 +176,7 @@ languages:
 awards:
   - title: Chun Wo Innovation Student Awards 2022 
     url: https://www.cwisa.com/en/index.html
-    certificate_url: https://www.cwisa.com/en/past-award-winners.html
+    certificate_url: https://drive.google.com/file/d/1Jdm7C9eLD6bN4H8D_IbftZbUtA_q4SwE/view?usp=sharing
     date: '2023-11-01'
     awarder: Chun Wo Development Holdings Limited
     icon: 
@@ -217,4 +217,4 @@ Before I delved fully into research, I worked as a research assistant in [Hong K
 
 Outside of work, you will find me photographing.
 
-Click here for my full [resume](static/uploads/BenyunZHAO_cv.pdf).
+Click here for my full [resume](https://drive.google.com/file/d/1GDiKjFEzTa3S2a2nULWll4icZJ9xDbI2/view?usp=drive_link).
