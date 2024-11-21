@@ -11,7 +11,7 @@ last_name: Zhao
 
 # Status emoji
 status:
-  icon: 🫨
+  icon: 🀅
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,6 +24,8 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Unmanned Systems Research Group
+    url: http://www.mae.cuhk.edu.hk/~usr/
   - name: The Chinese University of Hong Kong
     url: https://www.cuhk.edu.hk/english/index.html
 
