@@ -172,30 +172,30 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Chun Wo Innovation Student Awards 2022 
-    url: https://www.cwisa.com/en/past-award-winners.html
+    url: https://www.cwisa.com/en/index.html
+    certificate_url: https://www.cwisa.com/en/past-award-winners.html
     date: '2023-11-01'
-    awarder: Chun Wo Development Holdings Limited, 
+    awarder: Chun Wo Development Holdings Limited
     icon: 
     summary: |
-      Gold Award & Best Bussiness Potential Award
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      - Gold Award 
+      - Best Bussiness Potential Award
+  - title: YDC Dare To Change 2022-2023
+    url: https://daretochange.ydc.org.hk/en/home.aspx
+    certificate_url: https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: Young Entrepreneurs Development Council
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      - Best Business Idea Award
+  - title: Professor Charles K. Ko Student Creativity Award 
+    url: https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3735-event-highlight-professor-charles-k-kao-student-creativity-awards-pckksca-prize-presentation-ceremony-1-june-2023
+    certificate_url: https://www4.mae.cuhk.edu.hk/newsnawards/professor-charles-k-kao-student-creativity-awards-2023/
+    date: '2023-06-01'
+    awarder: The Chinese University of Hong Kong
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Champion (Postgraduate Group)
 ---
 
 ## About Me
