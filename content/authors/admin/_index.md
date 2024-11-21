@@ -3,7 +3,7 @@
 title: Benyun Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: 趙犇贇
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Benyun
@@ -213,6 +213,6 @@ Hello! This is Benyun Zhao (赵犇赟). I am a 3rd year Ph.D. student in [Mechan
 
 Before I delved fully into research, I worked as a research assistant in [Hong Kong Centre for Logistics Robotics](https://www.hkclr.hk/) from 2021-2022 and had internships in [Sinopec Jinling Company](http://jlpec.sinopec.com/jlpec/) and [YTO Group Corporation](http://en.first-tractor.com.cn/#) as Mechanical Engineer during undergraduate.
 
-Outside of work, you will find me photographing/concert.
+Outside of work, you will find me photographing.
 
 
