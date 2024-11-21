@@ -71,7 +71,7 @@ education:
       GPA: 3.7/4.0
 
       Courses included:
-      MAEG 5725: Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
+      MAEG 5725: Control & Industrial Automation by 
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
