@@ -10,8 +10,8 @@ first_name: Benyun
 last_name: Zhao
 
 # Status emoji
-status:
-  icon: 👨🏻‍💻
+# status:
+#   icon: 👨🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -78,18 +78,18 @@ education:
       - (*A/A*) ELEG 5760 Machine Learning for Singal Processing Applications by [*Prof. Hongsheng Li*](https://www.ee.cuhk.edu.hk/~hsli/) 
       - (*A-/A*) MAEG 5755 Robotics by [*Prof. Juan Rojas*](http://www.juanrojas.net/)
       - (*A-/A*) MAEG 5750 MEMS Technology and Applications by [*Prof. Li Zhang*](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) 
-  - area: B.Eng. in Mechanical Design Manufacturing and Automation
+  - area: B.Eng. in Mechanical Design, Manufacturing and Automation
     institution: Jiangsu Ocean University
     date_start: 2016-09-01
     date_end: 2020-07-01
     summary: |
-      GPA: 4.5/5.0
+      GPA: 4.5/5.0, Rank: 3/204
       
       Coursework:
       Advanced Mathematics (*94/100*), Geometric Drawing and Engineering Graphics (*85/100*), Linear Algebra (*94/100*), Probability and Statistics (*91/100*), Principles of Mechanics (*88/100*), Electrotechnics and Electronics (*86/100*), Solidworks 3D Model Design (*95/100*), Engineer Training (*95/100*), Electrical Control of Machinery Tools and PLC (*85/100*), CAD and CAM (*95/100*), Insturial Robot (*88/100*), Professional English for Mechanical Engineering (*96/100*)
 
 work:
-  - position: Visiting Student
+  - position: Visiting Student in Control Science and Engineering
     company_name: Nanjing University of Science and Technology
     company_url: ''
     company_logo: ''
@@ -98,9 +98,9 @@ work:
     summary: |
       Supervisor: [*Prof. Zhenbo Song*](https://www.researchgate.net/profile/Song-Zhenbo) and [*Prof. Jianfeng Lu*](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 
-  - position: Visiting Student
+  - position: Visiting Student in HiPeR Lab, Mechanical Engineering
     company_name:  University of California, Berkeley
-    company_url: 'https://hiperlab.berkeley.edu/'
+    company_url: https://hiperlab.berkeley.edu/
     company_logo: 'assets/media/icons/ucb.svg'
     date_start: 2023-09-01
     date_end: 2023-09-01
@@ -116,7 +116,7 @@ work:
     summary: |
       International Symposium on Cooperative Autonomous Systems, chaired by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [*Prof. Jie Chen*](https://www.tongji.edu.cn/info/1136/21221.htm) and [*Prof. Hugh Liu*](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
 
-  - position: Exchange Student
+  - position: Exchange Student in Mechanical Engineering
     company_name: Nanjing Tech University
     company_url: ''
     company_logo: ''
