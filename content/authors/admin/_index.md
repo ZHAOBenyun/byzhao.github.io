@@ -3,7 +3,7 @@
 title: Benyun Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: 赵犇赟
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Benyun
@@ -24,32 +24,33 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk/english/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'byzhao@mae.cuhk.edu.hk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/claude_byzhao/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ZHAOBenyun/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/benyun-zhao-96b09b255/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=XQuAI8UAAAAJ&hl=en&authuser=1
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0008-7298-2927
 
 interests:
+  - Unmanned Systems
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computation Vision
+  - 3D Scene Understanding
 
 education:
   - area: PhD Artificial Intelligence
