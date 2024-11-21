@@ -71,10 +71,10 @@ education:
       GPA: 3.7/4.0
       
       Courses included:
-      - (*A/A*) MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
-      - (*A/A*) ELEG 5760 Machine Learning for Singal Processing Applications by [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) 
-      - (*A-/A*) MAEG 5755 Robotics by [Prof. Juan Rojas](http://www.juanrojas.net/)
-      - (*A-/A*) MAEG 5750 MEMS Technology and Applications by [Prof. Li Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) 
+      - (*A/A*) MAEG 5725 Control & Industrial Automation by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
+      - (*A/A*) ELEG 5760 Machine Learning for Singal Processing Applications by [*Prof. Hongsheng Li*](https://www.ee.cuhk.edu.hk/~hsli/) 
+      - (*A-/A*) MAEG 5755 Robotics by [*Prof. Juan Rojas*](http://www.juanrojas.net/)
+      - (*A-/A*) MAEG 5750 MEMS Technology and Applications by [*Prof. Li Zhang*](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) 
   - area: B.Eng. in Mechanical Design Manufacturing and Automation
     institution: Jiangsu Ocean University
     date_start: 2016-01-01
@@ -83,7 +83,7 @@ education:
       GPA: 4.5/5.0
       
       Courses included:
-      - (*A/A*) MAEG 5725 Control & Industrial Automation by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
+      - (*A/A*) MAEG 5725 Control & Industrial Automation by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) 
 work:
   - position: Visiting Student
     company_name: Nanjing University of Science and Technology
@@ -92,16 +92,16 @@ work:
     date_start: 2024-04-01
     date_end: 2024-04-01
     summary: |
-      Supervisor: [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [*Prof. Jianfeng Lu*](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
+      Supervisor: [*Prof. Zhenbo Song*](https://www.researchgate.net/profile/Song-Zhenbo) and [*Prof. Jianfeng Lu*](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 
   - position: Visiting Student 
     company_name:  University of California, Berkeley
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://hiperlab.berkeley.edu/'
+    company_logo: 'assets/media/icons/UCB.png'
     date_start: 2023-09-01
     date_end: 2023-09-01
     summary: |
-      Supervisor: [Prof. Mark Mueller](https://me.berkeley.edu/people/mark-w-mueller/)
+      Supervisor: [*Prof. Mark Mueller*](https://me.berkeley.edu/people/mark-w-mueller/)
   
   - position: Visiting Student 
     company_name: Pengcheng Lab
@@ -110,7 +110,7 @@ work:
     date_start: 2023-07-01
     date_end: 2023-07-01
     summary: |
-      International Symposium on Cooperative Autonomous Systems, chaired by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) and [Prof. Hugh Liu](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
+      International Symposium on Cooperative Autonomous Systems, chaired by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [*Prof. Jie Chen*](https://www.tongji.edu.cn/info/1136/21221.htm) and [*Prof. Hugh Liu*](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
 
 
 # Skills
