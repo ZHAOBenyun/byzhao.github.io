@@ -92,7 +92,7 @@ work:
     date_start: 2024-04-01
     date_end: 2024-04-01
     summary: |
-      Supervisor: [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
+      Supervisor: [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [*Prof. Jianfeng Lu*](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 
   - position: Visiting Student 
     company_name:  University of California, Berkeley
