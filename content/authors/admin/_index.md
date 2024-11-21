@@ -3,7 +3,7 @@
 title: Benyun Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: 趙犇贇
 
 # Full name (for SEO)
 first_name: Benyun
@@ -78,7 +78,7 @@ education:
       - (*A-/A*) MAEG 5750 MEMS Technology and Applications by [*Prof. Li Zhang*](https://www4.mae.cuhk.edu.hk/peoples/zhang-li/) 
   - area: B.Eng. in Mechanical Design Manufacturing and Automation
     institution: Jiangsu Ocean University
-    date_start: 2016-01-01
+    date_start: 2016-09-01
     date_end: 2020-07-01
     summary: |
       GPA: 4.5/5.0
@@ -105,7 +105,7 @@ work:
     summary: |
       Supervisor: [*Prof. Mark Mueller*](https://me.berkeley.edu/people/mark-w-mueller/)
   
-  - position: Visiting Student 
+  - position: Invited Attendee 
     company_name: Pengcheng Lab
     company_url: ''
     company_logo: ''
