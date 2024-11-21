@@ -64,7 +64,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: M.S. in Mechanical and Automation Engineering
-    institution: The Chinese University of Hong Kong
+    institution: CUHK
     date_start: 2020-09-01
     date_end: 2021-06-31
     summary: |
