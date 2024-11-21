@@ -178,8 +178,8 @@ awards:
     awarder: Chun Wo Development Holdings Limited
     icon: 
     summary: |
-      - Gold Award 
-      - Best Bussiness Potential Award
+      - Gold Award (HKD 100,000)
+      - Best Bussiness Potential Award (HKD 5,000)
   - title: YDC Dare To Change 2022-2023
     url: https://daretochange.ydc.org.hk/en/home.aspx
     certificate_url: https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx
@@ -187,7 +187,7 @@ awards:
     awarder: Young Entrepreneurs Development Council
     icon: 
     summary: |
-      - Best Business Idea Award
+      - Best Business Idea Award (HKD 15,000)
   - title: Professor Charles K. Ko Student Creativity Award 
     url: https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3735-event-highlight-professor-charles-k-kao-student-creativity-awards-pckksca-prize-presentation-ceremony-1-june-2023
     certificate_url: https://www4.mae.cuhk.edu.hk/newsnawards/professor-charles-k-kao-student-creativity-awards-2023/
@@ -195,7 +195,15 @@ awards:
     awarder: The Chinese University of Hong Kong
     icon: 
     summary: |
-      - Champion (Postgraduate Group)
+      - Champion, Postgraduate Group (HKD 18,000)
+  - title: 48th Geneva International Exhibition of Inventions 
+    url: https://ifia.com/the-48th-international-exhibition-of-inventions-in-geneva-was-held-with-success/
+    certificate_url: https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3724-event-highlight-48th-international-exhibition-of-invention-geneva-26-30-april-2023
+    date: '2023-04-01'
+    awarder: World Intellectual Property Organizatio, International Federation of Inventor’s Association
+    icon: 
+    summary: |
+      - Bronze Medal
 ---
 
 ## About Me
