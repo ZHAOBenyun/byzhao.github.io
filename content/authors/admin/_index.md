@@ -51,6 +51,7 @@ interests:
   - Computation Vision
   - Robotics
   - 3D Scene Understanding
+  - 3D Reconstruction
 
 
 education:
@@ -199,16 +200,10 @@ awards:
 
 ## About Me
 
-Hello! This is Benyun Zhao (赵犇赟). I am a Ph.D. student in Mechanical and Automation Engineering at the Chinese University of Hong Kong. I am a member of [USR](http://www.mae.cuhk.edu.hk/~usr/) group, supervised by Prof. Ben M. Chen and frequently collaborating with Prof Mark Mueller in UCB. 
+Hello! This is Benyun Zhao (赵犇赟). I am a Ph.D. student in Mechanical and Automation Engineering at the Chinese University of Hong Kong (CUHK), where I obtained my Master's degree. I am now a member of [*USR*](http://www.mae.cuhk.edu.hk/~usr/) group, supervised by [*Prof. Ben M. Chen*](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and frequently collaborating with Prof. Yunhui Liu in CUHK and [*Prof. Mark Mueller*](https://me.berkeley.edu/people/mark-w-mueller/) in UC, Berkeley. My work focuses on computer vision engineering application based on unmanned systems, such as 2D object detection, instance segmentation, 3D scene reconstruction and understanding.
 
-My work focuses on understanding the 3D physical world through vision and language, enabling robots to act in such environments in a generalizable and controllable manner, and using natural language as feedback to teach and improve embodied agents. My dream is to build and deploy household robots to homes around the world to help humans with daily tasks and needs.
+Before I delved fully into research, I worked as a research assistant on robotics in [*Hong Kong Centre for Logistics Robotics*](https://www.hkclr.hk/) from 2021-2022 and had several internships in Sinopec and YTO Group Corporation as Mechanical Engineer during undergraduate.
 
-Before joining UMich, I obtained my Master’s in Machine Learning from Carnegie Mellon University where I worked with Prof. Louis-Philippe Morency and Prof. Matt Gormley on Multimodal Natural Language Understanding, Dataset Bias Analysis, and Machine Learning. I got my Bachelor’s in Computer Science from Georgia Tech.
-
-Before I delved fully into research, I worked as a Software Development Engineer at  Amazon Web Services, intern and full-time.
-
-Outside of work, you will find me skiing/cooking/baking/photographing.
-
-Click here for my full bio and here for my CV.
+Outside of work, you will find me photographing/concert.
 
 
