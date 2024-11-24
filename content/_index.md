@@ -34,23 +34,23 @@ sections:
     content:
       title: 'News'
       text: |-
-        - [Oct. 2024] 🎉 Multi-object hallucination is accepted to NeurIPS and Teachable Reinforcement Learning is accepted to EMNLP. Check them out!
+        - [Nov. 2023] Our paper "Towards Robust Quadrotor Control: A Reinforcement Learning Approach with Sim-to-Real Transfer" is accepted to IEEE Robotics and Automation Letters (RA-L)!
         
-        - [June 2024] 🚀 We released 3D-GRAND, the first million-scale densly-grounded 3D-text dataset for 3D-LLMs! Trained with this data, our model obtained stronger 3D grounding capabilities and drastically reduces hallucinations. We also proposed and released 3D-POPE, a benchmark to evaluate 3D-text hallucinations for 3D-LLMs. Try out live demo on our website!
+        - [Oct. 2023] Our paper "Robust Quadrotor Control via Sim-to-Real Deep Reinforcement Learning" is accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)!
         
-        - [Feb. 2024] ⭐ I will join the Meta Embodied AI team Summer 2024 as a Research Scientist Intern!
+        - [Sep. 2023] Our paper "Robust Quadrotor Control: A Deep Reinforcement Learning Approach" is accepted to IEEE International Conference on Real-time Computing and Robotics (RCAR 2023)!
         
-        - [Jan. 2024] 🎉 LLM-Grounder is accepted to ICRA 2024!
+        - [Aug. 2023] Our paper "Robust Quadrotor Control via Deep Reinforcement Learning with Sim-to-Real Transfer" is accepted to IEEE International Conference on Advanced Robotics and Mechatronics (ARM 2023)!
         
-        - [Sep. 2023] Preprint of LLM-Grounder, is now available on arXiv and featured in Hugging Face 🤗 Daily Papers! Watch our YouTube video demo, or try it out yourself on our live demo. Chat with an LLM agent to ground 3D objects!
+        - [July 2023] Our paper "Robust Quadrotor Control via Deep Reinforcement Learning with Domain Randomization" is accepted to IEEE International Conference on Robotics and Biomimetics (ROBIO 2023)!
         
-        - [June 2023] 🏆 We won 🥇 First Place ($500,000) in the first-ever Amazon Alexa Prize SimBot Challenge! It was an absolute honor to co-lead the amazing Team SEAGULL with Yichi Zhang! Big thank you and congrats to all of our team members! 🎉 Read our technical report here. (Media coverage: U-M, Amazon Science, 机器之心)
+        - [June 2023] I will join the Robotics and Multi-perception Lab at The Chinese University of Hong Kong as a Research Assistant!
         
-        - [May 2023] We open-sourced the 📸 Chat-with-NeRF (Twitter: 1, 2) project with a live demo. Try it out - chat with a 3D room and let us know what you think! 🙌
+        - [May 2023] I will graduate from Jiangnan University with a Bachelor's degree in Mechanical Engineering!
         
-        - [Oct. 2022] Our paper DANLI is accepted to EMNLP 2022 (oral)!
+        - [Apr. 2023] Our paper "Deep Reinforcement Learning for Robust Quadrotor Control" is accepted to Chinese Control Conference (CCC 2023)!
         
-        - [Aug. 2022] Team SEAGULL advanced to Phase Two of the 2023 Amazon Alexa Prize SimBot Challenge! I will continue to co-lead our team with Yichi to represent UMich! 🎉
+        - [Mar. 2023] I will join Prof. Ben M. Chen's group at The Chinese University of Hong Kong as a Research Assistant!
     design:
       columns: '1'
   - block: collection
