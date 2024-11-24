@@ -43,6 +43,19 @@ sections:
         - [2024] Our paper "SANet: Small but accurate detector for aerial flying object" is accepted to **IEEE International Conference on Robotics and Automation (ICRA)**!
 
         - [2023] Our paper "Multi-view stereo with learnable cost metric" is accepted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**!
+  
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  
   - block: markdown
     content:
       title: 'Publications'
@@ -112,17 +125,7 @@ sections:
       columns: '1'
       spacing:
         padding: ["2rem", "0", "2rem", "0"]
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  
   - block: collection
     content:
       title: Recent Publications
