@@ -32,14 +32,25 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: 'News'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        - [Oct. 2024] 🎉 Multi-object hallucination is accepted to NeurIPS and Teachable Reinforcement Learning is accepted to EMNLP. Check them out!
         
-        Please reach out to collaborate 😃
+        - [June 2024] 🚀 We released 3D-GRAND, the first million-scale densly-grounded 3D-text dataset for 3D-LLMs! Trained with this data, our model obtained stronger 3D grounding capabilities and drastically reduces hallucinations. We also proposed and released 3D-POPE, a benchmark to evaluate 3D-text hallucinations for 3D-LLMs. Try out live demo on our website!
+        
+        - [Feb. 2024] ⭐ I will join the Meta Embodied AI team Summer 2024 as a Research Scientist Intern!
+        
+        - [Jan. 2024] 🎉 LLM-Grounder is accepted to ICRA 2024!
+        
+        - [Sep. 2023] Preprint of LLM-Grounder, is now available on arXiv and featured in Hugging Face 🤗 Daily Papers! Watch our YouTube video demo, or try it out yourself on our live demo. Chat with an LLM agent to ground 3D objects!
+        
+        - [June 2023] 🏆 We won 🥇 First Place ($500,000) in the first-ever Amazon Alexa Prize SimBot Challenge! It was an absolute honor to co-lead the amazing Team SEAGULL with Yichi Zhang! Big thank you and congrats to all of our team members! 🎉 Read our technical report here. (Media coverage: U-M, Amazon Science, 机器之心)
+        
+        - [May 2023] We open-sourced the 📸 Chat-with-NeRF (Twitter: 1, 2) project with a live demo. Try it out - chat with a 3D room and let us know what you think! 🙌
+        
+        - [Oct. 2022] Our paper DANLI is accepted to EMNLP 2022 (oral)!
+        
+        - [Aug. 2022] Team SEAGULL advanced to Phase Two of the 2023 Amazon Alexa Prize SimBot Challenge! I will continue to co-lead our team with Yichi to represent UMich! 🎉
     design:
       columns: '1'
   - block: collection
