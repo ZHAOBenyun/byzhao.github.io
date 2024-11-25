@@ -2,13 +2,13 @@
 title: "High-resolution infrastructure defect detection dataset sourced by unmanned systems and validated with deep learning approaches"
 authors:
 - admin
-- Xingyu Zhou
-- Guoqing Yang
-- Jiawei Wen
-- Jingwen Zhang
-- Jianxiong Dou
-- Guanying Li
-- Xiangyu Chen
+- Xunkuai Zhou
+- Guidong Yang
+- Junjie Wen
+- Jihan Zhang
+- Jia Dou
+- Guang Li
+- Xi Chen
 - Ben M. Chen
 
 date: "2024-01-01T00:00:00Z"
@@ -24,10 +24,10 @@ publication_types: ["article-journal"]
 publication: "*Automation in Construction*"
 publication_short: "*AIC*"
 
-abstract: Infrastructure defect detection plays a vital role in ensuring structural safety and maintenance efficiency. However, the lack of high-quality datasets has hindered the development of automated defect detection systems. This paper presents CUBIT-Det, a comprehensive infrastructure defect detection dataset containing 12,000+ high-resolution images with detailed annotations. The dataset covers various defect types including cracks, spalling, exposed rebar, and water seepage, collected from real-world infrastructure using unmanned aerial vehicles and ground robots. We provide extensive validation of the dataset using state-of-the-art deep learning approaches, demonstrating its effectiveness for developing robust defect detection systems.
+abstract: Visual inspection of civil infrastructures has traditionally been a crucial yet labor-intensive task. In contrast, unmanned robots equipped with deep learning-based visual defect detection methods offer a more comprehensive and efficient solution compared to conventional manual inspection techniques. However, the full potential of deep learning in defect detection has yet to be fully realized, primarily due to the scarcity of annotated, high-quality defect datasets. In this study, we introduce CUBIT-Det, a high-resolution defect detection dataset that includes over 5500 images captured under various scenarios using professional-grade equipment. Distinguishing itself from existing datasets, CUBIT-Det encompasses a wide array of practical situations, backgrounds, and defect categories. We perform extensive benchmarking experiments on the dataset with nearly 30 cutting-edge real-time detection methods, and analyze both the impact of the dataset's annotation methods and zero-shot transfer ability of it. This effort lays a robust foundation for future advancements in defect detection solutions. Additionally, the practicality and effectiveness of CUBIT-Det are confirmed through thorough inspections of real-world buildings. Finally, we detail the features and acknowledge the limitations of our dataset, thereby highlighting significant opportunities for future research.
 
 # Summary. An optional shortened abstract.
-summary: We present CUBIT-Det, a comprehensive infrastructure defect detection dataset with 12,000+ high-resolution images and detailed annotations, validated through deep learning approaches.
+summary: We present CUBIT-Det, a comprehensive infrastructure defect detection dataset with 5000+ high-resolution images and detailed annotations, validated through deep learning approaches.
 
 tags:
 - Infrastructure Inspection
@@ -71,7 +71,7 @@ projects: []
 slides: ""
 ---
 
-## Overview
+<!-- ## Overview
 
 This paper introduces CUBIT-Det, a comprehensive infrastructure defect detection dataset that addresses the critical need for high-quality data in automated infrastructure inspection. The dataset features:
 
@@ -224,11 +224,11 @@ The CUBIT-Det dataset will be made publicly available to the research community,
 
 ## Acknowledgments
 
-This work was supported by [funding sources]. We thank our collaborators and the infrastructure maintenance teams who helped in data collection and validation.
+This work was supported by [funding sources]. We thank our collaborators and the infrastructure maintenance teams who helped in data collection and validation. -->
 
 ## Citation
 
-If you use CUBIT-Det in your research, please cite:
+If you use our *CUBIT* dataset in your research, please download it at https://github.com/ZHAOBenyun/CUBIT and consider citing our paper:
 
 ```bibtex
 @article{ZHAO2024105405,
@@ -241,8 +241,7 @@ issn = {0926-5805},
 doi = {https://doi.org/10.1016/j.autcon.2024.105405},
 url = {https://www.sciencedirect.com/science/article/pii/S0926580524001419},
 author = {Benyun Zhao and Xunkuai Zhou and Guidong Yang and Junjie Wen and Jihan Zhang and Jia Dou and Guang Li and Xi Chen and Ben M. Chen},
-keywords = {Defect detection, Object detection, High-resolution dataset, Deep learning, Unmanned system, Automated robotic platform, Infrastructure inspection},
-abstract = {Visual inspection of civil infrastructures has traditionally been a crucial yet labor-intensive task. In contrast, unmanned robots equipped with deep learning-based visual defect detection methods offer a more comprehensive and efficient solution compared to conventional manual inspection techniques. However, the full potential of deep learning in defect detection has yet to be fully realized, primarily due to the scarcity of annotated, high-quality defect datasets. In this study, we introduce CUBIT-Det, a high-resolution defect detection dataset that includes over 5500 images captured under various scenarios using professional-grade equipment. Distinguishing itself from existing datasets, CUBIT-Det encompasses a wide array of practical situations, backgrounds, and defect categories. We perform extensive benchmarking experiments on the dataset with nearly 30 cutting-edge real-time detection methods, and analyze both the impact of the dataset's annotation methods and zero-shot transfer ability of it. This effort lays a robust foundation for future advancements in defect detection solutions. Additionally, the practicality and effectiveness of CUBIT-Det are confirmed through thorough inspections of real-world buildings. Finally, we detail the features and acknowledge the limitations of our dataset, thereby highlighting significant opportunities for future research.}
+keywords = {Defect detection, Object detection, High-resolution dataset, Deep learning, Unmanned system, Automated robotic platform, Infrastructure inspection}
 }
 
 ```
